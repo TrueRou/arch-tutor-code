@@ -1,0 +1,7 @@
+{
+  "item.arch.exp_container_item": "Experience Container",
+  "tooltip.exp_container": "Stored experience: %s exp",
+  "tooltip.exp_container_mode": "IO Amount: %s exp",
+  "key.arch.throw_exp": "Throw exp to others",
+  "category.arch": "Arch"
+}

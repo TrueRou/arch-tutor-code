@@ -1,0 +1,7 @@
+{
+  "item.arch.exp_container_item": "经验储存器",
+  "tooltip.exp_container": "已储存经验: %s exp",
+  "tooltip.exp_container_mode": "单次存取量: %s exp",
+  "key.arch.throw_exp": "投掷经验给指定玩家",
+  "category.arch": "Arch"
+}
